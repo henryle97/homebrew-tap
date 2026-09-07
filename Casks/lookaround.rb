@@ -1,6 +1,6 @@
 cask "lookaround" do
-  version "0.1.0"
-  sha256 "cf02cba0b33a275fb5898af89755c2ac7c9954617aad133091061f4d56e34597"
+  version "0.1.2"
+  sha256 "f8909460ace36c36a9e30d2f206d35fc3e70e3f4a54a7849beae33423f1742bd"
 
   url "https://github.com/henryle97/look-around/releases/download/v#{version}/LookAround-#{version}.dmg"
   name "LookAround"
